@@ -1,0 +1,10 @@
+# CubeIDE workspace settings
+.metadata/
+
+# Build output
+Debug/
+Release/
+
+# Python
+__pycache__/
+*.csv
