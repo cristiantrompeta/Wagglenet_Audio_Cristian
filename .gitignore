@@ -4,7 +4,25 @@
 # Build output
 Debug/
 Release/
+*.o
+*.d
+*.elf
+*.map
+*.su
+*.cyclo
+*.list
 
 # Python
 __pycache__/
+*.pyc
 *.csv
+
+# Logged data from the SD card
+*.bin
+*.BIN
+
+# Editor / OS clutter
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
